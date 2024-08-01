@@ -1,4 +1,4 @@
-# v.0.5.0
+# v.0.1.0
 
 [diff](https://github.com/PerfectDevloper/ToolJet)
 
